@@ -1,0 +1,11 @@
+WALMART SALES ANALYSIS SUMMARY
+========================================
+Total Sales: $1,209,726.38
+Total Profit: $476,139.43
+Best Category: Fashion accessories
+Best Branch: WALM009
+Best City: Weslaco
+Best Payment: Credit card
+Peak Hours: [15, 16, 19]
+========================================
+12 visualizations included in walmart_charts.zip
